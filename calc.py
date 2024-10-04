@@ -11,3 +11,4 @@ if __name__ == "__main__":
     print(f"합: {result_sum}, 차: {result_diff}, 곱: {result_mul}, 나눗셈: {result_div}")
     
 print("첫번째 브랜치")
+    print("두번째 브랜치")
