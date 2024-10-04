@@ -9,3 +9,5 @@ if __name__ == "__main__":
     result_sum, result_diff, result_mul, result_div = add_subtract_multiply_divide(a, b)
     
     print(f"합: {result_sum}, 차: {result_diff}, 곱: {result_mul}, 나눗셈: {result_div}")
+    
+    print("두번째 브랜치")
